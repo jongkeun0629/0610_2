@@ -1,8 +1,8 @@
-package org.example;
+package com.jongkeun;
 
 public class Person{
-    String name;
-    int age;
+    public String name;
+    public int age;
 
     public void hello(){
         System.out.println("Hello");
